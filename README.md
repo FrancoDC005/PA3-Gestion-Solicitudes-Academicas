@@ -17,9 +17,6 @@
 | 1 | **Angel Fernando Reyes Moreno** | Líder de Proyecto / Frontend Developer | 100% | Configuración de arquitectura, React Router, Context API y Redux Store |
 | 2 | *[Nombre Completo Integrante 2]* | Frontend Developer | 100% | Desarrollo de componentes reutilizables (Cards, Navbar, Sidebar) y diseño CSS |
 | 3 | *[Nombre Completo Integrante 3]* | Logic & State Developer | 100% | Implementación de Hooks (`useState`, `useEffect`), filtros dinámicos y localStorage |
-| 4 | *[Nombre Completo Integrante 4]* | QA & Documentation | 100% | Pruebas de navegación SPA, comparativa técnica Context vs Redux y documentación |
-
-*(Nota: En caso de equipos de 5 integrantes, incorporar al quinto miembro manteniendo el formato indicado).*
 
 ---
 
@@ -178,4 +175,4 @@ De acuerdo a las especificaciones obligatorias de la evaluación, el enlace corr
 1. **Eficiencia en el desarrollo con React:** La separación de la interfaz en componentes funcionales reutilizables acelera el desarrollo y garantiza la mantenibilidad del código.
 2. **Navegación fluida:** React Router proporciona una experiencia de usuario idéntica a la de una aplicación de escritorio nativa, eliminando los parpadeos por recarga completa de página.
 3. **Selección fundamentada de herramientas de estado:** Context API es la opción ideal para compartir información estructurada del dominio sin añadir complejidad innecesaria, mientras que Redux Toolkit aporta robustez, trazabilidad y predictibilidad en flujos de eventos globales desacoplados.
-4. **Cumplimiento de Buenas Prácticas:** La solución implementada mantiene un código limpio, estructurado, libre de credenciales sensibles y alineado con los estándares del sílabo de ISIL.
+
