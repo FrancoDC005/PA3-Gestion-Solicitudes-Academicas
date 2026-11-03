@@ -15,8 +15,8 @@
 | N° | Nombre Completo | Rol Asignado | Participación (%) | Responsabilidad Principal |
 |:--:|:---|:---|:---:|:---|
 | 1 | **Angel Fernando Reyes Moreno** | Líder de Proyecto / Frontend Developer | 100% | Configuración de arquitectura, React Router, Context API y Redux Store |
-| 2 | *[Nombre Completo Integrante 2]* | Frontend Developer | 100% | Desarrollo de componentes reutilizables (Cards, Navbar, Sidebar) y diseño CSS |
-| 3 | *[Nombre Completo Integrante 3]* | Logic & State Developer | 100% | Implementación de Hooks (`useState`, `useEffect`), filtros dinámicos y localStorage |
+| 2 | **Franco Andres Diaz Carreal** | Frontend Developer | 100% | Desarrollo de componentes reutilizables (Cards, Navbar, Sidebar) y diseño CSS |
+| 3 | **Rodrigo Adrian Salas Sandoval** | Logic & State Developer | 100% | Implementación de Hooks (`useState`, `useEffect`), filtros dinámicos y localStorage |
 
 ---
 
