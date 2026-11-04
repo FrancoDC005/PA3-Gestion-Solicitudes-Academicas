@@ -164,7 +164,7 @@ npm run build
 
 De acuerdo a las especificaciones obligatorias de la evaluación, el enlace correspondiente es:
 
-**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+**Video público de YouTube:** https://www.youtube.com/@rodrigosalas9854
 
 *(En el video participan todos los integrantes del equipo con cámara encendida, explicando el problema, arquitectura técnica, código fuente y la comparación entre Context API y Redux).*
 
